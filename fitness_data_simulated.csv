@@ -1,0 +1,201 @@
+Age,Gender,Year_of_Study,Health_Conditions,Primary_Fitness_Goals,Weekly_Fitness_Commitment,Preferred_Workouts,Current_Activity_Level,Preferred_Workout_Time,Workout_Session_Duration,Dietary_Preferences,Eating_Out_Frequency,Preferred_Meal_Type,Share_Health_Metrics,Anonymous_Participation,Location_Sharing,Preferred_Rewards,Reminder_Preferences,Interest_in_Fitness_Groups,Interest_in_Campus_Fitness_App
+22,Male,3rd Year,None,Weight Loss,1-2 times,Other,High,Morning,1 hour,Jain,Often,Indian,Yes,I don’t wish to participate in social features,Yes,College Credits,Weekly,Maybe,Somewhat Likely
+23,Female,4th Year,None,Flexibility Improvement,1-2 times,Sports,Very High,Afternoon,Less than 30 minutes,Vegetarian,Rarely,Fast Food,Yes,I don’t wish to participate in social features,No,College Credits,Occasionally,Maybe,Neutral
+19,Male,4th Year,Knee Pain,Muscle Gain,5-6 times,Home workouts,Low,Evening,30-45 minutes,Other,Daily,No Preference,No,No,Yes,College Credits,No reminders,Maybe,Unlikely
+21,Female,1st Year,Asthma,Muscle Gain,5-6 times,Home workouts,Low,Afternoon,30-45 minutes,Vegan,Occasionally,Salads/Health Foods,Yes,No,Yes,Badges/Achievements,No reminders,Yes,Unlikely
+19,Male,3rd Year,Back Pain,Stress Relief,1-2 times,Sports,High,Afternoon,Less than 30 minutes,Jain,Often,Fast Food,Yes,I don’t wish to participate in social features,No,Leaderboards,No reminders,Yes,Neutral
+21,Other,3rd Year,Back Pain,Increase Stamina,Daily,Yoga,Very Low,Night,Less than 30 minutes,Other,Occasionally,Continental,Only specific data,I don’t wish to participate in social features,No,Group Challenges,Daily,Maybe,Very Unlikely
+22,Female,1st Year,Back Pain,Muscle Gain,Daily,Other,Very High,Morning,30-45 minutes,Non-Vegetarian,Daily,Fast Food,Yes,I don’t wish to participate in social features,No,Badges/Achievements,Weekly,Maybe,Very Unlikely
+19,Male,4th Year,None,Increase Stamina,5-6 times,Other,Low,Night,30-45 minutes,Vegetarian,Rarely,Indian,Yes,I don’t wish to participate in social features,Yes,Badges/Achievements,Weekly,Yes,Neutral
+21,Male,2nd Year,Asthma,Muscle Gain,5-6 times,Outdoor running/walking,Very Low,Afternoon,Less than 30 minutes,Vegan,Often,Indian,Only specific data,No,No,Badges/Achievements,No reminders,Maybe,Unlikely
+23,Other,4th Year,None,Weight Loss,1-2 times,Outdoor running/walking,High,Early Morning,1 hour,Other,Daily,No Preference,Yes,I don’t wish to participate in social features,Yes,College Credits,Weekly,Maybe,Unlikely
+20,Other,1st Year,Knee Pain,Increase Stamina,5-6 times,Other,Very Low,Morning,30-45 minutes,Vegetarian,Often,Salads/Health Foods,Yes,No,Yes,Group Challenges,Daily,Yes,Somewhat Likely
+18,Other,3rd Year,None,Weight Loss,1-2 times,Home workouts,Very High,Early Morning,30-45 minutes,Other,Occasionally,Continental,No,I don’t wish to participate in social features,Yes,College Credits,Occasionally,Maybe,Neutral
+20,Female,3rd Year,Asthma,General Fitness,3-4 times,Other,Low,Evening,More than 1 hour,Jain,Rarely,Fast Food,Only specific data,Yes,No,Badges/Achievements,Weekly,Yes,Somewhat Likely
+19,Other,2nd Year,Asthma,Flexibility Improvement,3-4 times,Gym workouts,Low,Night,More than 1 hour,Vegetarian,Occasionally,No Preference,Only specific data,I don’t wish to participate in social features,No,Personalized Tips,Weekly,Yes,Somewhat Likely
+20,Other,1st Year,None,General Fitness,Daily,Gym workouts,High,Afternoon,Less than 30 minutes,Non-Vegetarian,Occasionally,Continental,Only specific data,I don’t wish to participate in social features,Yes,Leaderboards,No reminders,No,Very Likely
+24,Male,4th Year,None,Increase Stamina,3-4 times,Sports,Moderate,Morning,More than 1 hour,Non-Vegetarian,Rarely,Salads/Health Foods,Only specific data,I don’t wish to participate in social features,Yes,Group Challenges,Occasionally,Maybe,Very Likely
+19,Female,2nd Year,Knee Pain,Flexibility Improvement,5-6 times,Outdoor running/walking,Moderate,Morning,Less than 30 minutes,Other,Often,Fast Food,No,Yes,No,Badges/Achievements,Daily,Yes,Very Likely
+22,Other,1st Year,Back Pain,Muscle Gain,1-2 times,Other,Very Low,Night,1 hour,Other,Occasionally,Indian,No,I don’t wish to participate in social features,No,Group Challenges,Weekly,No,Somewhat Likely
+21,Other,3rd Year,Asthma,General Fitness,5-6 times,Other,Very Low,Morning,More than 1 hour,Vegan,Daily,Continental,Only specific data,No,No,Group Challenges,Occasionally,No,Somewhat Likely
+21,Other,2nd Year,Asthma,Stress Relief,3-4 times,Yoga,Low,Afternoon,1 hour,Vegan,Daily,No Preference,No,I don’t wish to participate in social features,Yes,Personalized Tips,Weekly,No,Very Unlikely
+22,Other,3rd Year,Knee Pain,Muscle Gain,5-6 times,Outdoor running/walking,Low,Morning,1 hour,Vegan,Often,Salads/Health Foods,Yes,Yes,No,Group Challenges,No reminders,Maybe,Neutral
+23,Male,4th Year,Asthma,Flexibility Improvement,1-2 times,Yoga,Very Low,Afternoon,Less than 30 minutes,Other,Daily,No Preference,No,Yes,No,Badges/Achievements,Weekly,Yes,Somewhat Likely
+21,Other,3rd Year,Asthma,Weight Loss,3-4 times,Home workouts,High,Early Morning,Less than 30 minutes,Other,Daily,No Preference,Only specific data,No,No,Badges/Achievements,Occasionally,No,Somewhat Likely
+22,Other,2nd Year,Knee Pain,General Fitness,3-4 times,Other,Very Low,Morning,Less than 30 minutes,Other,Rarely,Fast Food,No,No,Yes,Leaderboards,Occasionally,Yes,Neutral
+21,Male,3rd Year,Knee Pain,Muscle Gain,5-6 times,Yoga,Very Low,Night,Less than 30 minutes,Other,Rarely,Indian,Yes,No,No,Badges/Achievements,Daily,Maybe,Very Likely
+18,Male,1st Year,Knee Pain,Stress Relief,5-6 times,Home workouts,Moderate,Morning,1 hour,Jain,Rarely,Salads/Health Foods,Yes,Yes,Yes,College Credits,Weekly,Yes,Unlikely
+19,Female,1st Year,Knee Pain,Increase Stamina,5-6 times,Other,Moderate,Night,1 hour,Other,Rarely,Fast Food,Only specific data,Yes,Yes,College Credits,Occasionally,Yes,Very Unlikely
+20,Other,3rd Year,None,Stress Relief,3-4 times,Gym workouts,Very High,Night,Less than 30 minutes,Jain,Often,Indian,Yes,Yes,No,Personalized Tips,Weekly,Maybe,Neutral
+21,Female,2nd Year,Back Pain,Muscle Gain,Daily,Sports,Moderate,Morning,30-45 minutes,Vegetarian,Occasionally,Salads/Health Foods,Only specific data,No,No,Personalized Tips,Weekly,No,Neutral
+18,Other,4th Year,None,Muscle Gain,5-6 times,Outdoor running/walking,Very High,Afternoon,Less than 30 minutes,Jain,Daily,No Preference,No,No,Yes,Badges/Achievements,Daily,Yes,Very Unlikely
+22,Female,4th Year,None,Increase Stamina,5-6 times,Home workouts,High,Afternoon,Less than 30 minutes,Non-Vegetarian,Daily,Indian,Only specific data,I don’t wish to participate in social features,Yes,Personalized Tips,Daily,Maybe,Somewhat Likely
+19,Other,4th Year,Asthma,Weight Loss,3-4 times,Home workouts,High,Afternoon,30-45 minutes,Other,Often,Fast Food,Only specific data,No,No,College Credits,Weekly,Yes,Unlikely
+23,Male,2nd Year,Knee Pain,Stress Relief,Daily,Outdoor running/walking,Moderate,Early Morning,1 hour,Vegan,Rarely,Indian,Yes,Yes,Yes,Group Challenges,Daily,No,Neutral
+21,Other,1st Year,Asthma,Flexibility Improvement,5-6 times,Home workouts,Low,Afternoon,More than 1 hour,Vegan,Daily,Salads/Health Foods,Only specific data,I don’t wish to participate in social features,No,Badges/Achievements,Daily,No,Neutral
+24,Female,4th Year,Knee Pain,Flexibility Improvement,1-2 times,Other,Low,Evening,More than 1 hour,Jain,Daily,Continental,Yes,No,Yes,Leaderboards,Occasionally,Yes,Somewhat Likely
+20,Male,1st Year,Back Pain,Increase Stamina,5-6 times,Gym workouts,Very Low,Evening,1 hour,Vegetarian,Daily,Continental,Only specific data,Yes,No,College Credits,Occasionally,Yes,Very Likely
+22,Other,1st Year,Back Pain,Flexibility Improvement,5-6 times,Outdoor running/walking,Very High,Morning,Less than 30 minutes,Non-Vegetarian,Often,Continental,Yes,No,Yes,Badges/Achievements,Weekly,No,Unlikely
+24,Female,3rd Year,None,General Fitness,3-4 times,Home workouts,High,Night,Less than 30 minutes,Other,Rarely,Salads/Health Foods,Yes,No,No,Leaderboards,Weekly,Maybe,Somewhat Likely
+19,Male,3rd Year,Back Pain,Increase Stamina,5-6 times,Sports,Moderate,Night,1 hour,Other,Occasionally,No Preference,Only specific data,I don’t wish to participate in social features,No,Personalized Tips,Daily,No,Neutral
+21,Female,2nd Year,Asthma,Muscle Gain,5-6 times,Gym workouts,Very High,Night,1 hour,Vegetarian,Daily,Continental,Only specific data,I don’t wish to participate in social features,Yes,Personalized Tips,Daily,Maybe,Unlikely
+23,Other,3rd Year,Asthma,Weight Loss,1-2 times,Gym workouts,Very High,Night,More than 1 hour,Vegan,Rarely,Salads/Health Foods,No,Yes,No,Group Challenges,Daily,No,Neutral
+20,Other,2nd Year,Asthma,Weight Loss,Daily,Other,Moderate,Night,More than 1 hour,Non-Vegetarian,Often,Indian,No,No,Yes,Leaderboards,Daily,Yes,Very Likely
+24,Male,3rd Year,None,General Fitness,5-6 times,Other,Very High,Night,30-45 minutes,Vegan,Rarely,Indian,Only specific data,No,Yes,Personalized Tips,Occasionally,Maybe,Very Likely
+22,Other,1st Year,Knee Pain,General Fitness,3-4 times,Sports,Very High,Night,Less than 30 minutes,Other,Rarely,No Preference,Only specific data,No,Yes,Personalized Tips,No reminders,Yes,Very Likely
+20,Other,2nd Year,None,Muscle Gain,1-2 times,Gym workouts,Very Low,Evening,30-45 minutes,Vegetarian,Often,No Preference,Yes,Yes,Yes,Personalized Tips,Daily,Yes,Very Likely
+22,Other,3rd Year,None,Increase Stamina,5-6 times,Home workouts,Very High,Afternoon,30-45 minutes,Other,Often,Continental,Only specific data,No,Yes,Group Challenges,Occasionally,Maybe,Neutral
+24,Other,1st Year,Knee Pain,Muscle Gain,Daily,Other,Low,Afternoon,More than 1 hour,Jain,Rarely,No Preference,No,No,Yes,Leaderboards,Occasionally,No,Very Likely
+22,Other,4th Year,None,Stress Relief,Daily,Gym workouts,Very Low,Early Morning,1 hour,Other,Often,Fast Food,Only specific data,Yes,No,Leaderboards,Occasionally,Maybe,Very Unlikely
+21,Other,2nd Year,Asthma,General Fitness,5-6 times,Home workouts,Very Low,Evening,1 hour,Vegan,Occasionally,Fast Food,No,I don’t wish to participate in social features,No,Leaderboards,Weekly,Yes,Very Unlikely
+20,Female,1st Year,Back Pain,Flexibility Improvement,1-2 times,Yoga,Low,Early Morning,30-45 minutes,Non-Vegetarian,Rarely,Salads/Health Foods,No,I don’t wish to participate in social features,Yes,College Credits,No reminders,Maybe,Unlikely
+21,Female,3rd Year,Asthma,Increase Stamina,5-6 times,Other,Very Low,Afternoon,1 hour,Vegan,Rarely,Continental,Only specific data,No,Yes,College Credits,Weekly,Maybe,Very Unlikely
+21,Other,2nd Year,Back Pain,Weight Loss,3-4 times,Outdoor running/walking,Very Low,Afternoon,1 hour,Vegetarian,Daily,Indian,No,Yes,No,Personalized Tips,Daily,Yes,Neutral
+24,Female,1st Year,Asthma,General Fitness,Daily,Sports,Low,Evening,1 hour,Non-Vegetarian,Daily,Salads/Health Foods,Only specific data,I don’t wish to participate in social features,No,Badges/Achievements,Occasionally,Yes,Very Likely
+19,Male,4th Year,None,Increase Stamina,Daily,Yoga,High,Early Morning,1 hour,Vegetarian,Rarely,Fast Food,No,I don’t wish to participate in social features,No,Personalized Tips,Occasionally,No,Neutral
+18,Male,3rd Year,Back Pain,Stress Relief,3-4 times,Other,Low,Afternoon,More than 1 hour,Vegan,Daily,Fast Food,No,I don’t wish to participate in social features,No,Personalized Tips,No reminders,Yes,Very Likely
+22,Male,1st Year,None,Increase Stamina,5-6 times,Home workouts,Very High,Early Morning,30-45 minutes,Vegan,Daily,Continental,Only specific data,No,No,Group Challenges,Weekly,Maybe,Unlikely
+20,Female,1st Year,None,Flexibility Improvement,3-4 times,Other,High,Morning,30-45 minutes,Other,Often,Continental,No,No,No,Leaderboards,No reminders,Yes,Very Likely
+18,Other,3rd Year,Back Pain,Weight Loss,1-2 times,Home workouts,High,Afternoon,1 hour,Other,Daily,No Preference,Yes,No,No,Personalized Tips,Weekly,Yes,Very Unlikely
+21,Female,1st Year,None,Stress Relief,1-2 times,Home workouts,High,Morning,Less than 30 minutes,Other,Daily,Continental,No,I don’t wish to participate in social features,No,Leaderboards,No reminders,Yes,Neutral
+20,Female,3rd Year,Asthma,Stress Relief,5-6 times,Home workouts,Very High,Night,Less than 30 minutes,Non-Vegetarian,Occasionally,Continental,No,I don’t wish to participate in social features,Yes,Leaderboards,Daily,Yes,Somewhat Likely
+21,Female,4th Year,None,Increase Stamina,3-4 times,Other,Moderate,Early Morning,Less than 30 minutes,Other,Occasionally,Continental,No,I don’t wish to participate in social features,No,Group Challenges,Weekly,No,Somewhat Likely
+21,Other,2nd Year,None,Stress Relief,3-4 times,Outdoor running/walking,Low,Early Morning,1 hour,Vegetarian,Often,Indian,Yes,I don’t wish to participate in social features,No,Group Challenges,Occasionally,Yes,Unlikely
+22,Male,1st Year,None,Flexibility Improvement,3-4 times,Gym workouts,Very Low,Night,Less than 30 minutes,Vegan,Often,Indian,No,Yes,Yes,College Credits,Occasionally,Maybe,Unlikely
+19,Male,2nd Year,Asthma,Weight Loss,3-4 times,Sports,Very High,Night,30-45 minutes,Jain,Often,Salads/Health Foods,No,Yes,No,Group Challenges,No reminders,Maybe,Very Likely
+22,Male,4th Year,Knee Pain,General Fitness,Daily,Gym workouts,Low,Early Morning,30-45 minutes,Vegan,Daily,Indian,Only specific data,No,No,College Credits,Occasionally,Yes,Somewhat Likely
+19,Female,2nd Year,Knee Pain,Increase Stamina,5-6 times,Home workouts,Moderate,Early Morning,1 hour,Non-Vegetarian,Daily,No Preference,Only specific data,Yes,No,Group Challenges,No reminders,Yes,Very Likely
+18,Male,1st Year,Knee Pain,Increase Stamina,1-2 times,Gym workouts,Moderate,Early Morning,1 hour,Vegan,Occasionally,Indian,Yes,I don’t wish to participate in social features,Yes,Badges/Achievements,Weekly,No,Somewhat Likely
+20,Other,2nd Year,Back Pain,Weight Loss,5-6 times,Yoga,Very High,Afternoon,1 hour,Other,Rarely,No Preference,Yes,I don’t wish to participate in social features,No,College Credits,Daily,No,Very Unlikely
+23,Other,1st Year,None,General Fitness,1-2 times,Yoga,Very High,Morning,More than 1 hour,Vegan,Rarely,No Preference,Yes,No,Yes,Group Challenges,Occasionally,Yes,Unlikely
+19,Female,2nd Year,None,Muscle Gain,Daily,Sports,Low,Early Morning,30-45 minutes,Other,Occasionally,Indian,Only specific data,Yes,No,Personalized Tips,Weekly,Yes,Unlikely
+24,Female,3rd Year,None,Increase Stamina,1-2 times,Outdoor running/walking,Low,Night,Less than 30 minutes,Jain,Occasionally,Salads/Health Foods,Only specific data,No,Yes,College Credits,No reminders,No,Very Likely
+22,Other,4th Year,Asthma,Muscle Gain,Daily,Gym workouts,Low,Night,Less than 30 minutes,Jain,Rarely,Fast Food,No,Yes,No,Group Challenges,Occasionally,Maybe,Somewhat Likely
+24,Female,2nd Year,Asthma,Weight Loss,1-2 times,Outdoor running/walking,Moderate,Evening,1 hour,Jain,Often,Salads/Health Foods,No,No,No,College Credits,Daily,Maybe,Neutral
+20,Female,2nd Year,None,Stress Relief,1-2 times,Yoga,High,Night,30-45 minutes,Vegan,Daily,Fast Food,Only specific data,Yes,No,Personalized Tips,No reminders,Maybe,Unlikely
+22,Female,3rd Year,Back Pain,General Fitness,5-6 times,Other,High,Evening,1 hour,Non-Vegetarian,Rarely,Fast Food,No,Yes,Yes,Group Challenges,Daily,Yes,Very Likely
+21,Other,1st Year,Knee Pain,Increase Stamina,5-6 times,Sports,Moderate,Early Morning,1 hour,Vegan,Daily,Indian,No,No,No,College Credits,No reminders,Maybe,Unlikely
+18,Female,1st Year,Knee Pain,General Fitness,1-2 times,Outdoor running/walking,Moderate,Night,1 hour,Jain,Often,Fast Food,No,I don’t wish to participate in social features,Yes,Leaderboards,Occasionally,Yes,Very Unlikely
+21,Female,3rd Year,None,Muscle Gain,3-4 times,Home workouts,Low,Evening,1 hour,Other,Often,No Preference,Yes,I don’t wish to participate in social features,No,Group Challenges,Occasionally,No,Somewhat Likely
+22,Other,2nd Year,Knee Pain,Weight Loss,Daily,Other,High,Early Morning,More than 1 hour,Vegetarian,Often,No Preference,No,Yes,No,Personalized Tips,Occasionally,Maybe,Neutral
+19,Other,4th Year,Back Pain,Increase Stamina,1-2 times,Gym workouts,High,Night,Less than 30 minutes,Non-Vegetarian,Daily,Salads/Health Foods,Only specific data,Yes,Yes,Badges/Achievements,Daily,Yes,Somewhat Likely
+18,Male,2nd Year,Back Pain,Stress Relief,5-6 times,Other,Very High,Evening,Less than 30 minutes,Other,Occasionally,Indian,Yes,Yes,Yes,Group Challenges,No reminders,Maybe,Somewhat Likely
+20,Male,3rd Year,None,Stress Relief,3-4 times,Other,Moderate,Night,More than 1 hour,Other,Daily,Indian,No,No,Yes,Leaderboards,Daily,Maybe,Very Likely
+19,Female,1st Year,None,General Fitness,1-2 times,Home workouts,Moderate,Afternoon,1 hour,Other,Rarely,Continental,Yes,I don’t wish to participate in social features,No,Group Challenges,Occasionally,Yes,Very Likely
+19,Other,1st Year,Knee Pain,Stress Relief,3-4 times,Home workouts,Moderate,Early Morning,30-45 minutes,Non-Vegetarian,Occasionally,Salads/Health Foods,Yes,No,Yes,Group Challenges,Weekly,No,Unlikely
+19,Other,4th Year,None,Weight Loss,5-6 times,Other,Low,Evening,More than 1 hour,Vegetarian,Occasionally,Salads/Health Foods,Only specific data,I don’t wish to participate in social features,No,College Credits,Daily,No,Somewhat Likely
+23,Male,2nd Year,Asthma,Increase Stamina,3-4 times,Other,Low,Morning,30-45 minutes,Vegan,Rarely,Fast Food,Only specific data,No,No,Leaderboards,Occasionally,No,Very Unlikely
+23,Male,4th Year,Asthma,Weight Loss,Daily,Yoga,High,Morning,1 hour,Vegetarian,Daily,Indian,Only specific data,No,Yes,Leaderboards,Weekly,Maybe,Somewhat Likely
+24,Other,3rd Year,Back Pain,Weight Loss,3-4 times,Outdoor running/walking,Very Low,Afternoon,30-45 minutes,Jain,Occasionally,No Preference,Yes,Yes,Yes,Group Challenges,Daily,Yes,Neutral
+20,Female,4th Year,Knee Pain,Stress Relief,5-6 times,Outdoor running/walking,High,Evening,Less than 30 minutes,Jain,Rarely,Continental,Only specific data,No,Yes,Personalized Tips,Occasionally,No,Very Likely
+24,Female,1st Year,Knee Pain,Muscle Gain,1-2 times,Yoga,Very Low,Night,1 hour,Vegan,Occasionally,Fast Food,Yes,Yes,No,Badges/Achievements,No reminders,Yes,Very Unlikely
+19,Other,3rd Year,None,Muscle Gain,1-2 times,Gym workouts,Very High,Early Morning,30-45 minutes,Non-Vegetarian,Occasionally,Continental,Only specific data,I don’t wish to participate in social features,No,Leaderboards,Daily,Yes,Very Likely
+18,Other,1st Year,None,Increase Stamina,Daily,Yoga,High,Morning,Less than 30 minutes,Vegetarian,Daily,No Preference,No,Yes,No,College Credits,Weekly,Maybe,Very Unlikely
+20,Other,1st Year,None,Weight Loss,3-4 times,Sports,Very High,Early Morning,More than 1 hour,Vegan,Rarely,Fast Food,No,I don’t wish to participate in social features,Yes,Group Challenges,No reminders,No,Unlikely
+20,Other,3rd Year,None,Increase Stamina,Daily,Yoga,Very Low,Morning,30-45 minutes,Vegetarian,Daily,Continental,Only specific data,Yes,No,Group Challenges,Daily,Maybe,Very Unlikely
+20,Male,2nd Year,None,Muscle Gain,1-2 times,Other,Low,Evening,Less than 30 minutes,Other,Occasionally,Salads/Health Foods,Yes,Yes,No,College Credits,No reminders,Yes,Very Likely
+24,Other,3rd Year,None,Increase Stamina,Daily,Home workouts,Very High,Night,30-45 minutes,Vegetarian,Rarely,Fast Food,No,I don’t wish to participate in social features,No,Group Challenges,No reminders,Yes,Somewhat Likely
+23,Female,3rd Year,Asthma,Muscle Gain,3-4 times,Gym workouts,Low,Evening,1 hour,Non-Vegetarian,Often,Continental,Yes,No,Yes,Group Challenges,Occasionally,Maybe,Unlikely
+19,Female,4th Year,Asthma,General Fitness,1-2 times,Sports,Moderate,Night,More than 1 hour,Vegan,Daily,No Preference,No,I don’t wish to participate in social features,No,Personalized Tips,Weekly,No,Neutral
+23,Other,4th Year,Back Pain,Muscle Gain,3-4 times,Home workouts,Moderate,Evening,1 hour,Vegetarian,Rarely,Fast Food,No,No,No,Group Challenges,Weekly,Yes,Unlikely
+24,Female,4th Year,None,Muscle Gain,3-4 times,Sports,Low,Evening,1 hour,Vegan,Rarely,Indian,Only specific data,Yes,Yes,Personalized Tips,Daily,Maybe,Somewhat Likely
+23,Male,2nd Year,Knee Pain,Increase Stamina,3-4 times,Sports,High,Early Morning,Less than 30 minutes,Vegan,Daily,No Preference,No,I don’t wish to participate in social features,No,Leaderboards,Daily,Maybe,Very Unlikely
+22,Male,4th Year,None,General Fitness,1-2 times,Outdoor running/walking,High,Afternoon,30-45 minutes,Vegetarian,Daily,Fast Food,Only specific data,Yes,No,Personalized Tips,No reminders,Maybe,Very Likely
+21,Male,2nd Year,Asthma,Flexibility Improvement,5-6 times,Yoga,Very High,Morning,More than 1 hour,Vegetarian,Occasionally,Indian,Only specific data,No,Yes,Badges/Achievements,Weekly,Maybe,Very Likely
+20,Female,4th Year,None,Flexibility Improvement,Daily,Other,High,Afternoon,30-45 minutes,Non-Vegetarian,Occasionally,Indian,Yes,No,No,Badges/Achievements,No reminders,No,Very Unlikely
+24,Male,3rd Year,None,Flexibility Improvement,Daily,Yoga,High,Evening,30-45 minutes,Other,Occasionally,Indian,Only specific data,I don’t wish to participate in social features,Yes,Leaderboards,Daily,No,Unlikely
+18,Female,4th Year,Knee Pain,Muscle Gain,Daily,Outdoor running/walking,Low,Afternoon,More than 1 hour,Other,Rarely,No Preference,No,No,No,Leaderboards,Occasionally,Yes,Very Unlikely
+20,Other,2nd Year,None,Flexibility Improvement,3-4 times,Sports,Very High,Early Morning,30-45 minutes,Non-Vegetarian,Occasionally,Salads/Health Foods,Yes,I don’t wish to participate in social features,Yes,Group Challenges,Occasionally,No,Very Unlikely
+18,Male,1st Year,None,Muscle Gain,3-4 times,Home workouts,Very High,Afternoon,More than 1 hour,Jain,Occasionally,Indian,Yes,Yes,No,Personalized Tips,Weekly,No,Very Unlikely
+18,Other,3rd Year,None,Increase Stamina,1-2 times,Outdoor running/walking,Very High,Evening,Less than 30 minutes,Vegan,Often,No Preference,No,No,No,Group Challenges,Weekly,Maybe,Very Unlikely
+20,Male,1st Year,None,General Fitness,Daily,Other,Low,Early Morning,More than 1 hour,Vegetarian,Occasionally,No Preference,No,Yes,No,Personalized Tips,Weekly,Yes,Very Likely
+20,Other,1st Year,Back Pain,Stress Relief,5-6 times,Other,Very High,Evening,30-45 minutes,Vegetarian,Daily,Continental,Yes,I don’t wish to participate in social features,Yes,Group Challenges,Weekly,No,Neutral
+19,Other,2nd Year,Asthma,Muscle Gain,1-2 times,Sports,Very High,Morning,30-45 minutes,Other,Rarely,No Preference,No,No,No,Badges/Achievements,Daily,Yes,Very Unlikely
+24,Male,3rd Year,Asthma,General Fitness,3-4 times,Yoga,Very Low,Early Morning,1 hour,Vegetarian,Rarely,Continental,No,Yes,No,Leaderboards,No reminders,No,Unlikely
+24,Other,3rd Year,None,Stress Relief,1-2 times,Yoga,Low,Afternoon,30-45 minutes,Other,Often,Continental,No,Yes,No,College Credits,Weekly,No,Unlikely
+21,Male,2nd Year,None,Flexibility Improvement,Daily,Gym workouts,Very Low,Morning,1 hour,Non-Vegetarian,Rarely,Indian,Only specific data,Yes,No,College Credits,Daily,No,Unlikely
+23,Male,2nd Year,Back Pain,Flexibility Improvement,3-4 times,Yoga,Very High,Early Morning,1 hour,Vegan,Often,Indian,No,No,Yes,Badges/Achievements,Occasionally,No,Very Likely
+24,Other,4th Year,Back Pain,Flexibility Improvement,Daily,Outdoor running/walking,High,Night,1 hour,Non-Vegetarian,Rarely,Indian,Yes,No,Yes,Personalized Tips,Weekly,No,Unlikely
+20,Other,1st Year,Knee Pain,Muscle Gain,3-4 times,Other,Low,Afternoon,More than 1 hour,Other,Daily,No Preference,Only specific data,No,Yes,Leaderboards,No reminders,No,Neutral
+24,Female,4th Year,Asthma,General Fitness,5-6 times,Gym workouts,Very High,Early Morning,More than 1 hour,Jain,Often,Indian,Only specific data,No,No,Group Challenges,Weekly,Yes,Very Likely
+23,Female,3rd Year,Asthma,Muscle Gain,1-2 times,Home workouts,Very High,Early Morning,1 hour,Non-Vegetarian,Daily,Continental,Yes,Yes,Yes,Group Challenges,Occasionally,No,Very Likely
+20,Male,1st Year,None,Increase Stamina,3-4 times,Other,Moderate,Evening,More than 1 hour,Vegetarian,Often,Salads/Health Foods,Only specific data,No,No,College Credits,Daily,Maybe,Neutral
+23,Other,2nd Year,None,Stress Relief,Daily,Sports,Very Low,Early Morning,More than 1 hour,Jain,Daily,Fast Food,No,No,Yes,Leaderboards,Occasionally,Yes,Somewhat Likely
+24,Other,3rd Year,Back Pain,Weight Loss,5-6 times,Yoga,Moderate,Early Morning,1 hour,Vegetarian,Daily,Indian,Only specific data,I don’t wish to participate in social features,No,Leaderboards,Daily,No,Very Unlikely
+20,Female,4th Year,None,General Fitness,3-4 times,Home workouts,Moderate,Afternoon,1 hour,Vegan,Daily,Fast Food,Only specific data,Yes,No,Leaderboards,Daily,No,Neutral
+19,Male,3rd Year,Knee Pain,Muscle Gain,Daily,Outdoor running/walking,High,Afternoon,1 hour,Vegetarian,Daily,No Preference,No,No,No,Badges/Achievements,Daily,Yes,Very Likely
+19,Other,3rd Year,Knee Pain,Increase Stamina,5-6 times,Outdoor running/walking,Very High,Afternoon,More than 1 hour,Non-Vegetarian,Often,No Preference,Only specific data,Yes,No,Badges/Achievements,Weekly,Maybe,Very Likely
+24,Male,1st Year,Knee Pain,Increase Stamina,1-2 times,Yoga,Very High,Afternoon,30-45 minutes,Other,Occasionally,No Preference,No,No,No,Badges/Achievements,Occasionally,Maybe,Unlikely
+18,Male,2nd Year,Knee Pain,General Fitness,Daily,Sports,Very Low,Evening,Less than 30 minutes,Vegetarian,Rarely,Indian,Yes,Yes,No,Group Challenges,Weekly,Maybe,Neutral
+21,Other,2nd Year,Back Pain,Stress Relief,5-6 times,Sports,High,Afternoon,1 hour,Non-Vegetarian,Often,Salads/Health Foods,Yes,Yes,Yes,Personalized Tips,Weekly,No,Very Likely
+23,Female,3rd Year,None,Stress Relief,3-4 times,Yoga,Very Low,Night,1 hour,Jain,Occasionally,Continental,Only specific data,I don’t wish to participate in social features,Yes,Leaderboards,Weekly,Maybe,Neutral
+21,Female,1st Year,None,Increase Stamina,3-4 times,Outdoor running/walking,High,Afternoon,30-45 minutes,Vegan,Rarely,Indian,Only specific data,I don’t wish to participate in social features,Yes,Badges/Achievements,Weekly,No,Very Likely
+19,Other,1st Year,Back Pain,Flexibility Improvement,Daily,Yoga,Very Low,Evening,1 hour,Non-Vegetarian,Often,No Preference,Only specific data,Yes,No,Personalized Tips,Occasionally,No,Unlikely
+21,Female,1st Year,Knee Pain,Muscle Gain,1-2 times,Other,High,Afternoon,More than 1 hour,Jain,Occasionally,Continental,Yes,I don’t wish to participate in social features,No,Leaderboards,Weekly,Maybe,Neutral
+18,Male,2nd Year,None,Muscle Gain,1-2 times,Other,Low,Morning,More than 1 hour,Non-Vegetarian,Daily,Fast Food,Only specific data,Yes,Yes,Personalized Tips,No reminders,No,Somewhat Likely
+18,Other,1st Year,Back Pain,Increase Stamina,1-2 times,Sports,Moderate,Evening,Less than 30 minutes,Other,Often,Salads/Health Foods,No,I don’t wish to participate in social features,No,Group Challenges,Occasionally,No,Unlikely
+24,Female,3rd Year,None,Stress Relief,1-2 times,Sports,Low,Night,1 hour,Vegan,Daily,Salads/Health Foods,Only specific data,I don’t wish to participate in social features,No,Badges/Achievements,Daily,Maybe,Somewhat Likely
+21,Female,3rd Year,Asthma,General Fitness,Daily,Sports,Very Low,Evening,30-45 minutes,Vegan,Rarely,Salads/Health Foods,No,No,Yes,Personalized Tips,Weekly,No,Unlikely
+18,Other,2nd Year,Back Pain,Weight Loss,1-2 times,Sports,Very High,Evening,1 hour,Vegetarian,Occasionally,Indian,Only specific data,I don’t wish to participate in social features,No,College Credits,Weekly,No,Somewhat Likely
+19,Other,1st Year,Asthma,Flexibility Improvement,5-6 times,Sports,Moderate,Morning,30-45 minutes,Vegan,Often,Fast Food,Yes,Yes,No,College Credits,Occasionally,No,Neutral
+21,Other,4th Year,None,General Fitness,5-6 times,Gym workouts,High,Evening,More than 1 hour,Vegetarian,Rarely,No Preference,Yes,Yes,No,Badges/Achievements,Weekly,Maybe,Very Unlikely
+20,Male,4th Year,Asthma,General Fitness,3-4 times,Yoga,Low,Night,1 hour,Other,Often,No Preference,Only specific data,I don’t wish to participate in social features,No,Badges/Achievements,Daily,Yes,Very Unlikely
+20,Other,2nd Year,None,General Fitness,3-4 times,Outdoor running/walking,Low,Morning,30-45 minutes,Non-Vegetarian,Often,Salads/Health Foods,No,I don’t wish to participate in social features,No,Leaderboards,Occasionally,Maybe,Neutral
+22,Female,2nd Year,Asthma,Weight Loss,1-2 times,Home workouts,Very Low,Afternoon,1 hour,Non-Vegetarian,Occasionally,Indian,Yes,Yes,No,College Credits,Occasionally,Yes,Unlikely
+24,Male,3rd Year,Knee Pain,Increase Stamina,3-4 times,Sports,Very High,Early Morning,1 hour,Jain,Often,Indian,Yes,Yes,No,Personalized Tips,Occasionally,No,Very Unlikely
+20,Male,3rd Year,None,Muscle Gain,5-6 times,Other,Low,Evening,1 hour,Non-Vegetarian,Occasionally,No Preference,No,Yes,Yes,Leaderboards,Weekly,Yes,Very Unlikely
+23,Male,2nd Year,Asthma,General Fitness,3-4 times,Yoga,Very High,Early Morning,30-45 minutes,Other,Often,No Preference,No,I don’t wish to participate in social features,Yes,Group Challenges,Occasionally,Yes,Neutral
+19,Other,2nd Year,Asthma,Flexibility Improvement,1-2 times,Yoga,Very Low,Night,Less than 30 minutes,Vegan,Daily,Indian,No,Yes,No,Group Challenges,No reminders,Maybe,Unlikely
+21,Female,3rd Year,None,Stress Relief,3-4 times,Home workouts,Low,Afternoon,30-45 minutes,Vegetarian,Daily,Continental,No,I don’t wish to participate in social features,Yes,College Credits,No reminders,Maybe,Very Likely
+20,Male,2nd Year,Knee Pain,Stress Relief,5-6 times,Sports,High,Afternoon,1 hour,Vegetarian,Occasionally,Salads/Health Foods,No,No,Yes,Leaderboards,Occasionally,Yes,Neutral
+19,Other,1st Year,None,General Fitness,5-6 times,Home workouts,Low,Evening,Less than 30 minutes,Vegetarian,Rarely,No Preference,Yes,Yes,Yes,Badges/Achievements,Occasionally,Maybe,Very Unlikely
+24,Male,4th Year,Asthma,Increase Stamina,1-2 times,Home workouts,Moderate,Morning,30-45 minutes,Non-Vegetarian,Daily,Continental,Only specific data,No,No,Personalized Tips,Occasionally,No,Very Unlikely
+20,Other,4th Year,Back Pain,Increase Stamina,5-6 times,Home workouts,Very Low,Afternoon,30-45 minutes,Vegan,Often,Continental,Only specific data,Yes,No,Leaderboards,Weekly,No,Very Likely
+23,Female,1st Year,None,Muscle Gain,Daily,Outdoor running/walking,Very Low,Afternoon,30-45 minutes,Other,Daily,No Preference,Only specific data,Yes,Yes,Personalized Tips,No reminders,No,Somewhat Likely
+22,Other,3rd Year,Knee Pain,Increase Stamina,Daily,Gym workouts,Low,Afternoon,1 hour,Vegan,Occasionally,No Preference,Yes,Yes,No,Badges/Achievements,Weekly,Maybe,Somewhat Likely
+19,Male,4th Year,Back Pain,Flexibility Improvement,5-6 times,Other,Moderate,Evening,Less than 30 minutes,Non-Vegetarian,Occasionally,Fast Food,Yes,Yes,Yes,Group Challenges,Daily,Yes,Very Unlikely
+22,Other,2nd Year,Back Pain,General Fitness,Daily,Home workouts,Very High,Evening,1 hour,Vegetarian,Daily,No Preference,No,No,Yes,Personalized Tips,Daily,No,Unlikely
+21,Male,3rd Year,Knee Pain,Flexibility Improvement,1-2 times,Yoga,Moderate,Early Morning,1 hour,Vegan,Rarely,No Preference,Only specific data,Yes,Yes,Personalized Tips,No reminders,No,Neutral
+19,Other,3rd Year,Asthma,Stress Relief,5-6 times,Outdoor running/walking,Moderate,Night,More than 1 hour,Vegan,Daily,Indian,Yes,No,No,Badges/Achievements,No reminders,Maybe,Somewhat Likely
+20,Male,1st Year,None,Weight Loss,1-2 times,Yoga,Moderate,Early Morning,30-45 minutes,Other,Rarely,Continental,No,No,Yes,Leaderboards,Daily,No,Neutral
+20,Male,1st Year,Knee Pain,Weight Loss,3-4 times,Home workouts,Moderate,Night,Less than 30 minutes,Vegan,Rarely,Fast Food,No,No,No,College Credits,Daily,No,Very Unlikely
+18,Female,4th Year,Back Pain,Stress Relief,3-4 times,Home workouts,Low,Early Morning,1 hour,Vegetarian,Daily,Continental,Only specific data,No,Yes,Badges/Achievements,No reminders,Yes,Very Unlikely
+18,Male,1st Year,None,Muscle Gain,1-2 times,Yoga,Low,Afternoon,More than 1 hour,Vegan,Rarely,No Preference,Only specific data,I don’t wish to participate in social features,No,Personalized Tips,Weekly,Maybe,Very Unlikely
+20,Male,1st Year,None,Muscle Gain,1-2 times,Gym workouts,Very Low,Night,1 hour,Vegan,Rarely,Indian,Only specific data,No,No,Personalized Tips,Daily,Maybe,Neutral
+24,Male,3rd Year,None,Weight Loss,Daily,Yoga,Very Low,Night,1 hour,Jain,Often,Indian,No,Yes,No,College Credits,Occasionally,Yes,Somewhat Likely
+18,Other,3rd Year,Knee Pain,Flexibility Improvement,5-6 times,Sports,Very Low,Evening,More than 1 hour,Jain,Rarely,Continental,No,I don’t wish to participate in social features,Yes,Personalized Tips,Weekly,No,Somewhat Likely
+24,Male,3rd Year,None,General Fitness,1-2 times,Yoga,Very Low,Night,More than 1 hour,Vegetarian,Rarely,No Preference,No,No,No,College Credits,Occasionally,No,Very Unlikely
+22,Other,2nd Year,None,Stress Relief,5-6 times,Yoga,Very Low,Evening,30-45 minutes,Vegetarian,Occasionally,Fast Food,Yes,No,No,Badges/Achievements,Daily,No,Neutral
+18,Female,1st Year,Knee Pain,Muscle Gain,Daily,Sports,Moderate,Morning,1 hour,Non-Vegetarian,Occasionally,Indian,Yes,I don’t wish to participate in social features,No,College Credits,No reminders,Yes,Neutral
+22,Other,1st Year,None,Increase Stamina,1-2 times,Other,Low,Morning,More than 1 hour,Non-Vegetarian,Occasionally,Fast Food,No,I don’t wish to participate in social features,Yes,Group Challenges,Occasionally,Maybe,Very Likely
+23,Other,1st Year,None,Flexibility Improvement,Daily,Home workouts,Very Low,Early Morning,More than 1 hour,Vegetarian,Occasionally,Salads/Health Foods,Yes,I don’t wish to participate in social features,Yes,Leaderboards,Occasionally,Maybe,Neutral
+18,Female,2nd Year,Knee Pain,Stress Relief,Daily,Outdoor running/walking,Moderate,Early Morning,Less than 30 minutes,Vegetarian,Occasionally,Salads/Health Foods,Yes,Yes,No,Leaderboards,Weekly,No,Unlikely
+18,Other,2nd Year,None,Flexibility Improvement,1-2 times,Gym workouts,Moderate,Evening,Less than 30 minutes,Jain,Occasionally,Indian,No,Yes,Yes,Leaderboards,Daily,Maybe,Unlikely
+21,Male,1st Year,None,Increase Stamina,5-6 times,Yoga,Moderate,Night,More than 1 hour,Vegan,Rarely,Fast Food,Only specific data,I don’t wish to participate in social features,Yes,Personalized Tips,No reminders,Maybe,Somewhat Likely
+23,Male,2nd Year,None,General Fitness,5-6 times,Gym workouts,High,Night,1 hour,Vegetarian,Often,Salads/Health Foods,No,No,Yes,Leaderboards,Weekly,Yes,Unlikely
+24,Female,3rd Year,None,Increase Stamina,5-6 times,Yoga,High,Evening,More than 1 hour,Vegetarian,Often,Indian,No,No,Yes,Group Challenges,Weekly,No,Somewhat Likely
+21,Female,2nd Year,None,Muscle Gain,3-4 times,Home workouts,Very High,Evening,30-45 minutes,Vegan,Occasionally,Continental,Yes,I don’t wish to participate in social features,No,College Credits,Weekly,Yes,Unlikely
+19,Female,3rd Year,Back Pain,Flexibility Improvement,1-2 times,Gym workouts,Very Low,Afternoon,30-45 minutes,Jain,Daily,Salads/Health Foods,Only specific data,Yes,No,Personalized Tips,Daily,No,Unlikely
+22,Male,1st Year,None,Muscle Gain,5-6 times,Outdoor running/walking,High,Night,30-45 minutes,Jain,Daily,Continental,No,Yes,Yes,College Credits,Daily,Yes,Somewhat Likely
+18,Female,1st Year,None,General Fitness,1-2 times,Home workouts,Very High,Morning,1 hour,Jain,Occasionally,No Preference,Yes,Yes,Yes,Personalized Tips,No reminders,Maybe,Somewhat Likely
+20,Female,1st Year,None,Stress Relief,5-6 times,Home workouts,Low,Night,Less than 30 minutes,Other,Often,Continental,No,No,Yes,Leaderboards,Weekly,No,Very Likely
+18,Male,1st Year,Asthma,Flexibility Improvement,Daily,Outdoor running/walking,High,Afternoon,Less than 30 minutes,Jain,Often,Continental,Only specific data,I don’t wish to participate in social features,No,Badges/Achievements,No reminders,Yes,Very Likely
+22,Female,3rd Year,Back Pain,Increase Stamina,5-6 times,Home workouts,Very High,Night,30-45 minutes,Jain,Occasionally,Salads/Health Foods,Only specific data,I don’t wish to participate in social features,Yes,Group Challenges,Daily,Maybe,Neutral
+20,Male,3rd Year,None,Flexibility Improvement,Daily,Home workouts,Very High,Evening,Less than 30 minutes,Jain,Occasionally,No Preference,Yes,No,Yes,Badges/Achievements,No reminders,No,Very Likely
+24,Male,2nd Year,None,Weight Loss,5-6 times,Yoga,Very Low,Early Morning,Less than 30 minutes,Vegetarian,Often,Salads/Health Foods,Yes,I don’t wish to participate in social features,No,College Credits,Daily,Yes,Unlikely
+19,Male,3rd Year,None,Increase Stamina,Daily,Gym workouts,Very High,Afternoon,Less than 30 minutes,Non-Vegetarian,Often,Continental,Yes,I don’t wish to participate in social features,No,Leaderboards,Occasionally,Maybe,Somewhat Likely
+24,Other,1st Year,Back Pain,Increase Stamina,5-6 times,Outdoor running/walking,Moderate,Morning,1 hour,Other,Often,Indian,Only specific data,Yes,Yes,Leaderboards,Weekly,Yes,Very Likely
+18,Other,3rd Year,Back Pain,General Fitness,3-4 times,Yoga,High,Night,Less than 30 minutes,Jain,Occasionally,Indian,No,No,Yes,Group Challenges,Daily,No,Very Unlikely
+19,Female,3rd Year,Back Pain,Increase Stamina,1-2 times,Other,Very High,Night,1 hour,Vegan,Daily,Continental,Yes,I don’t wish to participate in social features,Yes,College Credits,Daily,Maybe,Somewhat Likely
+20,Other,1st Year,Knee Pain,Weight Loss,1-2 times,Home workouts,Moderate,Afternoon,30-45 minutes,Vegan,Daily,Continental,Yes,I don’t wish to participate in social features,Yes,Badges/Achievements,Weekly,No,Somewhat Likely
+22,Other,3rd Year,Knee Pain,Increase Stamina,Daily,Sports,Low,Night,30-45 minutes,Vegetarian,Daily,Salads/Health Foods,Yes,I don’t wish to participate in social features,No,Leaderboards,Weekly,Yes,Very Unlikely
+18,Other,4th Year,Asthma,Weight Loss,5-6 times,Gym workouts,Moderate,Afternoon,Less than 30 minutes,Non-Vegetarian,Often,Fast Food,No,No,No,Leaderboards,Weekly,Maybe,Very Unlikely
+22,Female,1st Year,Asthma,Stress Relief,Daily,Other,Moderate,Afternoon,30-45 minutes,Jain,Often,No Preference,Only specific data,I don’t wish to participate in social features,No,College Credits,Occasionally,Maybe,Neutral
+18,Male,2nd Year,None,Muscle Gain,5-6 times,Yoga,Moderate,Morning,Less than 30 minutes,Vegan,Occasionally,No Preference,No,Yes,No,College Credits,Occasionally,No,Neutral
+19,Other,2nd Year,None,Stress Relief,Daily,Home workouts,Moderate,Afternoon,Less than 30 minutes,Vegan,Occasionally,Indian,Yes,I don’t wish to participate in social features,No,Group Challenges,Weekly,Maybe,Somewhat Likely
+19,Other,2nd Year,Asthma,Weight Loss,3-4 times,Sports,Very High,Early Morning,Less than 30 minutes,Non-Vegetarian,Rarely,Continental,Only specific data,I don’t wish to participate in social features,No,College Credits,Daily,Maybe,Very Unlikely
+24,Male,4th Year,Asthma,Flexibility Improvement,1-2 times,Outdoor running/walking,High,Morning,1 hour,Other,Rarely,Salads/Health Foods,Only specific data,Yes,No,Leaderboards,No reminders,No,Neutral
+19,Female,2nd Year,Back Pain,Flexibility Improvement,1-2 times,Gym workouts,High,Night,30-45 minutes,Vegan,Rarely,Fast Food,Only specific data,No,No,Group Challenges,Weekly,Yes,Unlikely
+18,Male,2nd Year,None,Flexibility Improvement,3-4 times,Gym workouts,Very Low,Early Morning,Less than 30 minutes,Vegan,Often,Continental,Yes,No,No,College Credits,Daily,No,Very Likely
+20,Male,3rd Year,Back Pain,Flexibility Improvement,Daily,Gym workouts,Moderate,Evening,1 hour,Jain,Occasionally,Salads/Health Foods,No,No,No,Leaderboards,No reminders,No,Very Unlikely
+24,Male,4th Year,Back Pain,Increase Stamina,3-4 times,Sports,Moderate,Morning,Less than 30 minutes,Vegan,Daily,Indian,Only specific data,No,Yes,Badges/Achievements,Weekly,Maybe,Very Unlikely
